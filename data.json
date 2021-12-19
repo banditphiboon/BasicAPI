@@ -1,0 +1,23 @@
+[
+    {
+        "title":"What's the Medical Device ? ",
+        "subtitle":"Medical Device คือ อุปกรณ์ที่ใช้ในทาการแพทย์... ",
+        "image_url":"https://cdn.pixabay.com/photo/2021/07/29/06/31/ct-scan-6506418_960_720.jpg",
+        "detail":"ของใช้ประจำอยู่กับเครื่องมือแพทย์เป็นอาจิณเพื่อประโยชน์แก่การจัดดูแล ใช้สอย หรือรักษาเครื่องมือแพทย์\nเครื่องใช้ ผลิตภัณฑ์ หรือวัตถุอื่นที่รัฐมนตรีประกาศกำหนดในราชกิจจานุเบกษาว่าเป็นเครื่องมือแพทย์"
+
+    },
+    {
+        "title":"Type of Medical Device ?",
+        "subtitle":"ประภทของเครื่องมือมีหลายประเภท...",
+        "image_url":"https://cdn.pixabay.com/photo/2020/12/03/13/21/scalpel-5800533_960_720.jpg",
+        "detail":""
+    },
+    {
+        "title":"How to use Medical Device ?",
+        "subtitle":"การใช้เครื่องมือแพทย์ต้องได้รับ...",
+        "image_url":"https://cdn.pixabay.com/photo/2021/06/12/20/09/pulse-oximeter-6331691_960_720.jpg",
+        "detail":""
+    }
+
+]
+
